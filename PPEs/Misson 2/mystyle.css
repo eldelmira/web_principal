@@ -1,0 +1,30 @@
+a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.image{
+    border-radius: 70px;
+    justify-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+.form{
+    color: brown;
+    text-align: justify;
+    text-justify:inter-word;
+    font-size: larger;
+
+}
+.sommaire{
+    border: 2px;
+    border-style: ridge;
+    
+}
+
+
+
